@@ -1,0 +1,102 @@
+productID,productName,productPrice,supplierID,supplierName,storeID,storeName
+2,Dell XPS 13 Laptop,129999,2,Dell Technologies,2,Tech Haven
+21,DJI Mavic Air 2 Drone,79999,20,DJI,6,Photo World
+29,AOC CQ32G1 Curved Gaming Monitor,34999,27,AOC International,4,Game Zone
+11,LG OLED C1 4K TV,249999,11,LG Electronics,1,Electro Mart
+99,Jabra Elite 75t True Wireless Earbuds,14999,37,Jabra,3,Sound Zone
+81,Acer Predator X34 Curved Gaming Monitor,99999,27,Acer Inc,4,Game Zone
+95,Lenovo ThinkPad X1 Carbon Gen 9 Laptop,189999,32,Lenovo Group,2,Tech Haven
+97,Google Nest Audio Smart Speaker,9999,22,Google LLC,3,Sound Zone
+22,Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard,19999,21,Corsair,4,Game Zone
+72,Fujifilm X100V Compact Camera,139999,36,Fujifilm Holdings Corporation,6,Photo World
+91,Logitech G502 HERO Gaming Mouse,7999,12,Logitech,4,Game Zone
+8,Alienware Aurora Gaming PC,179999,8,Alienware Dell,5,InnoTech
+76,ASUS TUF Gaming VG279QM Monitor,34999,23,ASUS,4,Game Zone
+65,JBL Charge 4 Portable Bluetooth Speaker,14999,24,JBL,3,Sound Zone
+79,Canon EOS 90D DSLR Camera,119999,19,Canon Inc,6,Photo World
+73,Apple iPad Pro 129inch,109999,1,Apple Inc,2,Tech Haven
+41,HyperX Cloud II Gaming Headset,9999,34,HyperX Kingston Technology,4,Game Zone
+89,Canon EOS1D X Mark III DSLR Camera,649999,19,Canon Inc,6,Photo World
+5,iPad Air,59999,5,Apple Inc,2,Tech Haven
+10,Fitbit Charge 5,17999,10,Fitbit Inc,7,Health Zone
+78,Lenovo Yoga C930 2in1 Laptop,119999,32,Lenovo Group,2,Tech Haven
+85,HP Pavilion 27xw Monitor,24999,30,HP Inc,2,Tech Haven
+20,Apple Watch Series 7,39999,1,Apple Inc,7,Health Zone
+92,Amazon Echo Show 10 3rd Gen,24999,45,Amazoncom Inc,1,Electro Mart
+57,Sony Alpha 7C Mirrorless Camera,179999,16,Sony Corporation,6,Photo World
+53,OnePlus Buds Pro,14999,29,OnePlus Technology,3,Sound Zone
+94,Bose SoundLink Revolve Bluetooth Speaker,29999,14,Bose Corporation,3,Sound Zone
+59,NVIDIA GeForce RTX 3080 Graphics Card,69999,40,NVIDIA Corporation,5,InnoTech
+80,Anker Soundcore Flare Portable Speaker,9999,31,Anker Innovations,3,Sound Zone
+100,Microsoft Surface Pro 7,79999,15,Microsoft Corporation,2,Tech Haven
+51,MacBook Pro M2,199999,1,Apple Inc,2,Tech Haven
+31,MacBook Air M2,119999,1,Apple Inc,2,Tech Haven
+46,MSI GS66 Stealth Gaming Laptop,199999,35,MSI MicroStar International,5,InnoTech
+39,Apple AirPods Max,54999,1,Apple Inc,3,Sound Zone
+44,Corsair Virtuoso RGB Wireless Gaming Headset,17999,21,Corsair,4,Game Zone
+47,Fujifilm XT4 Mirrorless Camera,149999,36,Fujifilm Holdings Corporation,6,Photo World
+28,Fitbit Versa 3 Smartwatch,22999,10,Fitbit Inc,7,Health Zone
+75,Ring Video Doorbell Pro 2,24999,42,Ring Amazon,1,Electro Mart
+19,Nikon D850 DSLR Camera,299999,19,Nikon Corporation,6,Photo World
+36,Anker Soundcore Liberty Air 2 Pro Earbuds,12999,31,Anker Innovations,3,Sound Zone
+32,SteelSeries Arctis Pro Wireless Gaming Headset,32999,28,SteelSeries,4,Game Zone
+37,Lenovo Legion 5 Gaming Laptop,99999,32,Lenovo Group,5,InnoTech
+70,Sennheiser HD 660 S OpenBack Headphones,49999,41,Sennheiser,3,Sound Zone
+16,Sony A7 III Mirrorless Camera,199999,16,Sony Corporation,6,Photo World
+23,Google Pixel 6,69999,22,Google LLC,1,Electro Mart
+82,Apple Watch SE,27999,1,Apple Inc,7,Health Zone
+90,Apple AirPods 3rd generation,17999,1,Apple Inc,3,Sound Zone
+52,ROCCAT Vulcan Pro Mechanical Gaming Keyboard,19999,38,ROCCAT Turtle Beach,4,Game Zone
+40,Roku Ultra 4K Streaming Player,9999,33,Roku Inc,1,Electro Mart
+7,AirPods Pro,24999,7,Apple Inc,3,Sound Zone
+87,Beats Powerbeats Pro Wireless Earphones,24999,44,Beats by Dre Apple Inc,3,Sound Zone
+24,ASUS ROG Swift PG279Q Gaming Monitor,69999,23,ASUS,4,Game Zone
+66,Acer Aspire 5 Laptop,54999,25,Acer Inc,2,Tech Haven
+49,Acer Predator XB271HU Gaming Monitor,59999,27,Acer Inc,4,Game Zone
+101,Red Tomatoes,189999,51,Pakistan,51,Pakistan
+88,Dell Inspiron 14 Laptop,79999,2,Dell Technologies,2,Tech Haven
+54,Dell Alienware AW3420DW Curved Gaming Monitor,119999,8,Alienware Dell,4,Game Zone
+58,Apple HomePod Mini,9999,1,Apple Inc,3,Sound Zone
+27,GoPro HERO10 Black Action Camera,49999,26,GoPro Inc,6,Photo World
+56,HP Omen 15 Gaming Laptop,129999,30,HP Inc,5,InnoTech
+35,LG C1 OLED 4K TV,279999,11,LG Electronics,1,Electro Mart
+61,Samsung Galaxy Watch 4 Classic,34999,13,Samsung Electronics,7,Health Zone
+83,HyperX Alloy FPS Pro Mechanical Gaming Keyboard,6999,34,HyperX Kingston Technology,4,Game Zone
+71,Dell G5 Gaming Desktop,129999,2,Dell Technologies,5,InnoTech
+96,Nikon Z6 Mirrorless Camera,199999,19,Nikon Corporation,6,Photo World
+26,Acer Predator Helios 300 Gaming Laptop,119999,25,Acer Inc,5,InnoTech
+45,Google Nest Hub 2nd Gen,9999,22,Google LLC,1,Electro Mart
+4,Sony WH1000XM4 Headphones,34999,4,Sony Corporation,3,Sound Zone
+77,UE Megaboom 3 Portable Bluetooth Speaker,19999,43,Ultimate Ears Logitech,3,Sound Zone
+64,MSI Optix MAG271CQR Curved Gaming Monitor,39999,35,MSI MicroStar International,4,Game Zone
+43,DJI Osmo Pocket 2,34999,20,DJI,6,Photo World
+98,MSI Optix MAG321CQR Curved Gaming Monitor,49999,35,MSI MicroStar International,4,Game Zone
+15,Microsoft Surface Laptop 4,129999,15,Microsoft Corporation,2,Tech Haven
+84,OnePlus Nord 2,49999,29,OnePlus Technology,1,Electro Mart
+25,JBL Flip 5 Portable Bluetooth Speaker,9999,24,JBL,3,Sound Zone
+86,LG UltraGear 27GN950B Gaming Monitor,149999,11,LG Electronics,4,Game Zone
+48,Garmin Forerunner 945 GPS Smartwatch,59999,17,Garmin Ltd,7,Health Zone
+62,Logitech MX Master 3 Wireless Mouse,9999,12,Logitech,2,Tech Haven
+6,Xbox Series X,49999,6,Microsoft Corporation,4,Game Zone
+17,Garmin Venu 2 Smartwatch,39999,17,Garmin Ltd,7,Health Zone
+14,Bose QuietComfort 35 II Wireless Headphones,29999,14,Bose Corporation,3,Sound Zone
+50,Jabra Elite 85t True Wireless Earbuds,22999,37,Jabra,3,Sound Zone
+63,Google Pixel Buds ASeries,9999,22,Google LLC,3,Sound Zone
+60,Canon EOS M50 Mark II Mirrorless Camera,64999,9,Canon Inc,6,Photo World
+13,Samsung Galaxy Tab S7,64999,13,Samsung Electronics,2,Tech Haven
+30,Samsung Galaxy Buds Pro,19999,13,Samsung Electronics,3,Sound Zone
+3,Samsung QLED 4K Smart TV,149999,3,Samsung Electronics,1,Electro Mart
+12,Logitech G Pro X Mechanical Gaming Keyboard,14999,12,Logitech,4,Game Zone
+68,Garmin Instinct Solar Smartwatch,39999,17,Garmin Ltd,7,Health Zone
+1,iPhone 13 Pro,109999,1,Apple Inc,1,Electro Mart
+69,Samsung Odyssey G7 Gaming Monitor,69999,3,Samsung Electronics,4,Game Zone
+42,Sony Xperia 1 III,129999,16,Sony Corporation,1,Electro Mart
+74,Razer Naga X Gaming Mouse,7999,18,Razer Inc,4,Game Zone
+67,GoPro HERO9 Black Action Camera,44999,26,GoPro Inc,6,Photo World
+34,HP Spectre x360 Laptop,139999,30,HP Inc,2,Tech Haven
+9,Canon EOS R5 Mirrorless Camera,349999,9,Canon Inc,6,Photo World
+93,Alienware AW2521HFL Gaming Monitor,49999,8,Alienware Dell,4,Game Zone
+33,OnePlus 9 Pro,89999,29,OnePlus Technology,1,Electro Mart
+38,Canon EOS RP Mirrorless Camera,129999,9,Canon Inc,6,Photo World
+18,Razer Blade 15 Gaming Laptop,179999,18,Razer Inc,5,InnoTech
+55,Sonos Roam Portable Bluetooth Speaker,16999,39,Sonos Inc,3,Sound Zone
