@@ -89,8 +89,10 @@ MD.
 not have the duplication records.
 6. Repeat steps 1 to 5 until you load all the data from TRANSACTIONS table to DW.
 6. DW analysis
+7. 
 Once the entire data has been loaded into DW, you will be required to analyse your DW by
 applying following OLAP queries.
+
 Q1. Top Revenue-Generating Products on Weekdays and Weekends with Monthly Drill-Down
 Find the top 5 products that generated the highest revenue, separated by weekday and weekend
 sales, with results grouped by month for a specified year.
@@ -100,33 +102,41 @@ Calculate the revenue growth rate for each store on a quarterly basis for 2017.
 Q3. Detailed Supplier Sales Contribution by Store and Product Name
 For each store, show the total sales contribution of each supplier broken down by product name. The
 output should group results by store, then supplier, and then product name under each supplier.
+
 Q4. Seasonal Analysis of Product Sales Using Dynamic Drill-Down
 Present total sales for each product, drilled down by seasonal periods (Spring, Summer, Fall,
 Winter). This can help understand product performance across seasonal periods.
+
 Q5. Store-Wise and Supplier-Wise Monthly Revenue Volatility
 Calculate the month-to-month revenue volatility for each store and supplier pair. Volatility can be
 defined as the percentage change in revenue from one month to the next, helping identify stores
 or suppliers with highly fluctuating sales.
+
 Q6. Top 5 Products Purchased Together Across Multiple Orders (Product Affinity Analysis)
 Identify the top 5 products frequently bought together within a set of orders (i.e., multiple
 products purchased in the same transaction). This product affinity analysis could inform potential
 product bundling strategies.
+
 Q7. Yearly Revenue Trends by Store, Supplier, and Product with ROLLUP
 Use the ROLLUP operation to aggregate yearly revenue data by store, supplier, and product,
 enabling a comprehensive overview from individual product-level details up to total revenue per
 store. This query should provide an overview of cumulative and hierarchical sales figures.
+
 Q8. Revenue and Volume-Based Sales Analysis for Each Product for H1 and H2
 For each product, calculate the total revenue and quantity sold in the first and second halves of
 the year, along with yearly totals. This split-by-time-period analysis can reveal changes in product
 popularity or demand over the year.
+
 Q9. Identify High Revenue Spikes in Product Sales and Highlight Outliers
 Calculate daily average sales for each product and flag days where the sales exceed twice the daily
 average by product as potential outliers or spikes. Explain any identified anomalies in the report,
 as these may indicate unusual demand events.
+
 Q10. Create a View STORE_QUARTERLY_SALES for Optimized Sales Analysis
 Create a view named STORE_QUARTERLY_SALES that aggregates total quarterly sales by store,
 ordered by store name. This view allows quick retrieval of store-specific trends across quarters,
 significantly improving query performance for regular sales analysis.
+
 7. Tasks break-up
 Following is list of tasks that you need to complete in this project.
 1. Identifying appropriate dimension tables, fact table, and their attributes for the sales
